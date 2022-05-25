@@ -39,8 +39,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Demo (click the image to watch the demo)
 <div align="center" style="height:200px; margin-bottom:10%">
-  <a>
-	  <img src="https://img.youtube.com/vi/tncehUH_3Mk/0.jpg" href="https://www.youtube.com/watch?v=tncehUH_3Mk")
+  <a href="https://www.youtube.com/watch?v=tncehUH_3Mk">
+	  <img src="https://img.youtube.com/vi/tncehUH_3Mk/0.jpg" href="https://www.youtube.com/watch?v=tncehUH_3Mk">
   </a>
 </div>
 <!-- TODO Put images from the project here -->
