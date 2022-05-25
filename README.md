@@ -41,9 +41,8 @@
 
 <div align="center" style="height:200px; margin-bottom:10%">
   <a>
-    <iframe width="420" height="315"
-    src="https://www.youtube.com/watch?v=tncehUH_3Mk" alt="Demo video">
-    </iframe>
+    [![Demo](https://img.youtube.com/vi/tncehUH_3Mk/0.jpg)](https://www.youtube.com/watch?v=tncehUH_3Mk)
+
   </a>
 </div>
 <!-- TODO Put images from the project here -->
