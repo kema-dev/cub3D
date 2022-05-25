@@ -48,6 +48,7 @@
 ## About The Project
 
 cub3D is a 42 project, aiming to create a Wolfenstein3D like game using only C with limited authorized librairies. You can find complete subject <a href="docs/">here</a>.
+All the calculus (ray casting, physics...) must be coded by the student, this project is an introduction to rendering engine programmation.
 
 ### Built With
 
